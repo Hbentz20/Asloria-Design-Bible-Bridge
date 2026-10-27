@@ -1,0 +1,126 @@
+{
+  "doc_url": "https://claude.ai/artifact/Dc8Nypw42Rc1r671wapdtd",
+  "synced_at": "2026-10-27T08:24:13Z",
+  "tabs": [
+    {
+      "order": 1,
+      "name": "Dark Fantasy System — Asloria Design Bible",
+      "id": "cb8d5424-203f",
+      "rev": 469,
+      "file": "tabs/01-dark-fantasy-system-asloria-design-bible.md",
+      "bytes": 7971,
+      "sha256": "71f804eaaa453a618bb8b1f8680c2242d8c8882d27b59a38ef61c5506e93f887",
+      "transcribed": true
+    },
+    {
+      "order": 2,
+      "name": "Core Rules",
+      "id": "ea8f2766-3ed7",
+      "rev": 2,
+      "file": "tabs/02-core-rules.md",
+      "bytes": 49805,
+      "sha256": "68d5e1523b2bd467130dce0a50f291f5fe2983e4d577f1db0ed7a7f60d2df8c3",
+      "transcribed": false
+    },
+    {
+      "order": 3,
+      "name": "Skill Tests",
+      "id": "95d3c3c3-2c5e",
+      "rev": 64,
+      "file": "tabs/03-skill-tests.md",
+      "bytes": 26159,
+      "sha256": "151e7ba2de2dba3665ce0eaaa6a040190ec8f81c3a394a612d621d64189bdaf6",
+      "transcribed": true
+    },
+    {
+      "order": 4,
+      "name": "Races",
+      "id": "02052350-f7ed",
+      "rev": 3,
+      "file": "tabs/04-races.md",
+      "bytes": 9934,
+      "sha256": "ce3bdc4cd0a937a685d5e7c52bdca3c903e44854d2eda8fadc79538b4f0ab4a9",
+      "transcribed": true
+    },
+    {
+      "order": 5,
+      "name": "Paths and Abilities",
+      "id": "55af6f06-d0f8",
+      "rev": 9,
+      "file": "tabs/05-paths-and-abilities.md",
+      "bytes": 28832,
+      "sha256": "38ae5b52d187aed2722dfd0dea8efa4bcfcffb67daa03c9a981100230b48fc9c",
+      "transcribed": true
+    },
+    {
+      "order": 6,
+      "name": "Ability Catalog",
+      "id": "0e50a814-267d",
+      "rev": 9,
+      "file": "tabs/06-ability-catalog.md",
+      "bytes": 12329,
+      "sha256": "98addb556f6e61bbcea391b23d26fa2f9665370cc91f83377b04481b69358189",
+      "transcribed": true
+    },
+    {
+      "order": 7,
+      "name": "Combat",
+      "id": "1fd1d293-8350",
+      "rev": 46,
+      "file": "tabs/07-combat.md",
+      "bytes": 116936,
+      "sha256": "a6aae911d2133e63cce5dde17022794e5cae2fb05ea201c5f2dba7edad328ce3",
+      "transcribed": false
+    },
+    {
+      "order": 8,
+      "name": "Clarity and Conditions",
+      "id": "f324c95b-93c8",
+      "rev": 2,
+      "file": "tabs/08-clarity-and-conditions.md",
+      "bytes": 7786,
+      "sha256": "d7eeef153e626d0e8277088327efba1c1933780189a1bd0304d80132853a7fc9",
+      "transcribed": true
+    },
+    {
+      "order": 9,
+      "name": "Open Issues and Next Steps",
+      "id": "1c02debe-2d19",
+      "rev": 2,
+      "file": "tabs/09-open-issues-and-next-steps.md",
+      "bytes": 15125,
+      "sha256": "93813c02f1c36bb8530522893cabae6a9794bb738fac202ed9e897d4d72ab6b5",
+      "transcribed": true
+    },
+    {
+      "order": 10,
+      "name": "Decision log",
+      "id": "30896428-c559",
+      "rev": 17,
+      "file": "tabs/10-decision-log.md",
+      "bytes": 78513,
+      "sha256": "8e61b6cd0777b28aa8aac0c1fcfe5c66c6bb2590b81a9a5908e91940a55665e6",
+      "transcribed": false
+    },
+    {
+      "order": 11,
+      "name": "Design Toolkit",
+      "id": "138c45a1-8690",
+      "rev": 32,
+      "file": "tabs/11-design-toolkit.md",
+      "bytes": 8527,
+      "sha256": "b43f4666913bb2bdd2f6d0846858a2fa2a9a7e8d570a74f6a46c0e14e0bc6f4c",
+      "transcribed": true
+    },
+    {
+      "order": 12,
+      "name": "Player Feedback Log",
+      "id": "1d3fd3f3-fb31",
+      "rev": 22,
+      "file": "tabs/12-player-feedback-log.md",
+      "bytes": 11786,
+      "sha256": "5437f893e53c9f720543694ea88379ddb596e65d591818ba87a4e7f70622009b",
+      "transcribed": true
+    }
+  ]
+}
